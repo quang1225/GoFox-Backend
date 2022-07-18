@@ -1,0 +1,16 @@
+module.exports.authValidation = require('./auth.validation');
+module.exports.userValidation = require('./user.validation');
+module.exports.airdropValidation = require('./airdrop.validation');
+module.exports.rewardValidation = require('./reward.validation');
+module.exports.searchValidation = require('./search.validation');
+module.exports.collectionValidation = require('./collection.validation');
+module.exports.categoryValidation = require('./category.validation');
+module.exports.itemInCategoryValidation = require('./itemInCategory.validation');
+module.exports.offerListingValidation = require('./offerListing.validation');
+module.exports.itemListingValidation = require('./itemListing.validation');
+module.exports.itemOwnerValidation = require('./itemOwner.validation');
+module.exports.userActivityValidation = require('./userActivity.validation');
+module.exports.itemActivityValidation = require('./itemActivity.validation');
+module.exports.itemValidation = require('./item.validation');
+module.exports.bannerValidation = require('./banner.validation');
+module.exports.contractValidation = require('./contract.validation');

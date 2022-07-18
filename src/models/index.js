@@ -1,0 +1,17 @@
+module.exports.Token = require('./token.model');
+module.exports.User = require('./user.model');
+module.exports.AirDrop = require('./airdrop.model');
+module.exports.Reward = require('./reward.model');
+module.exports.RewardRequest = require('./rewardRequest.model');
+module.exports.UserActivity = require('./userActivity.model');
+module.exports.Collection = require('./collection.model');
+module.exports.RequestVerifyCollection = require('./requestVerifyCollection.model');
+module.exports.ItemInCategory = require('./itemInCategory.model');
+module.exports.OfferListing = require('./offerListing.model');
+module.exports.ItemListing = require('./itemListing.model');
+module.exports.Item = require('./item.model');
+module.exports.ItemOwner = require('./itemOwner.model');
+module.exports.Banner = require('./banner.model');
+module.exports.Category = require('./category.model');
+module.exports.ItemListing = require('./itemListing.model');
+module.exports.ItemActivity = require('./itemActivity.model');
